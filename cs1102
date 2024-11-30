@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Customizing a ChatBot with ChatGPT</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #007BFF;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        ul, ol {
+            margin-left: 20px;
+        }
+        footer {
+            margin-top: 20px;
+            padding: 10px 0;
+            text-align: center;
+            font-size: 0.9em;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>CS1102 Project (2024-2025 Semester A)</h1>
+    <h2>TUE 12:00-12:50 Project Group 3</h2>
+    <h3>Group Members:</h3>
+    <p>He Man Sze (57844860) - Workload percentage: 100%</p>
+    <p>Chan Hoi Lam (57223300) - Workload percentage: 100%</p>
+    <p>Lam Cheuk Ho (56667944) - Workload percentage: 100%</p>
+    <p>Chan Hiu Ching (57153887) - Workload percentage: 100%</p>
+    <h3>Project Topic: Customizing a ChatBot with ChatGPT</h3>
+</header>
+
+<main>
+    <section>
+        <h2>Background</h2>
+        <p>Due to technological advancement, many technologies and products have been produced, for example AI technology and ChatGPT. These technological products bring many benefits and conveniences to people’s lives.</p>
+    </section>
+
+    <section>
+        <h2>Applications</h2>
+        <ul>
+            <li>Customer Support: Handles inquiries, troubleshooting, and provides personalized assistance.</li>
+            <li>Content Creation: Generates articles, creative stories, and programming code.</li>
+            <li>Education: Assists students with homework and explains complex concepts.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Main Features/Functions</h2>
+        <ul>
+            <li>Natural Language Processing: Understands and generates human-like text.</li>
+            <li>Versatility: Assists with writing, debugging, composing music, and more.</li>
+            <li>Learning Mechanism: Improves over time with reinforcement learning from human feedback.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Experience with ChatGPT</h2>
+        <p>As ChatGPT is banned in Hong Kong, we can only check the internet for more information about customizing a ChatBot with ChatGPT.</p>
+        <h3>Customization Methods</h3>
+        <ol>
+            <li><strong>Default Setting:</strong> Fill out the fields under "Custom Instructions".</li>
+            <li><strong>Direct Instructions (Master Prompt):</strong> Write a well-crafted input for context and expectations.</li>
+        </ol>
+    </section>
+
+    <section>
+        <h2>Benefits of Customizing a ChatBot</h2>
+        <ul>
+            <li>Efficiency: Reduces repeated instructions.</li>
+            <li>Personalisation: Tailors responses to match communication preferences.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Reference List</h2>
+        <ol>
+            <li>Advanced Applications of Generative AI and Natural Language Processing Models, Ahmed J. Obaid, Bharat Bhushan, Muthmainnah S., S. Suman Rajest, Dec 2023. <a href="https://www.techtarget.com/whatis/definition/ChatGPT">TechTarget</a></li>
+        </ol>
+    </section>
+</main>
+
+<footer>
+    <p>&copy; 2024 CS1102 Project Group 3. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
